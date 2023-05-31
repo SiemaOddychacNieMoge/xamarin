@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "60J/nWmcbI7M+3+oRAi9Qk+gta0oirQDcYY+GCcttKoED6TjDKoO5KfEEJMzK3jEVkSU98iyrFabh0qCA3X09A==",
+  "success": true,
+  "projectFilePath": "E:\\Programming\\Mobile Apps\\pracka-na-mobilki\\pracka-na-mobilki\\pracka-na-mobilki\\pracka-na-mobilki.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igors\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

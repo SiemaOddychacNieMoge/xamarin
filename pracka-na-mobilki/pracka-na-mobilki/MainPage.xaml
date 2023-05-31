@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="pracka_na_mobilki.MainPage">
+
+  <StackLayout Padding="16">
+    <Image Source="logo"/>
+    <Label Text="Logowanie" FontAttributes="Bold"/>
+    <FlexLayout FlowDirection="LeftToRight" AlignItems="Center" JustifyContent="SpaceBetween">
+      <Label Text="Login" />
+      <Entry x:Name="login" WidthRequest="320"/>
+    </FlexLayout>
+    <FlexLayout FlowDirection="LeftToRight" AlignItems="Center" JustifyContent="SpaceBetween">
+      <Label Text="Hasło" />
+      <Entry x:Name="haslo" IsPassword="True" WidthRequest="320"/>
+    </FlexLayout>
+    <Button x:Name="zaloguj" Text="Zaloguj" Clicked="zaloguj_Clicked"/>
+    <Label Text="Zapisywanie danych" FontAttributes="Bold"/>
+    <FlexLayout FlowDirection="LeftToRight" AlignItems="Center" JustifyContent="SpaceBetween">
+      <Label Text="Wpisz tekst" />
+      <Entry x:Name="tekst" WidthRequest="280"/>
+    </FlexLayout>
+    <Button x:Name="zapisz" Text="Pobierz dane i zapisz" IsEnabled="False" Clicked="zapisz_Clicked"/>
+    <Label x:Name="informacja" Text="" />
+    <Label Text="Czytanie danych" FontAttributes="Bold"/>
+    <Button x:Name="zobacz" Text="Zobacz ostatnie dane" IsEnabled="False" Clicked="zobacz_Clicked"/>
+    <Label x:Name="dane" Text="" />
+  </StackLayout>
+
+</ContentPage>

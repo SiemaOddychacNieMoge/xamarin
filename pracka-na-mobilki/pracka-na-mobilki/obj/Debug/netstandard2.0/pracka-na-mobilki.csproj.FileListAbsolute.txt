@@ -1,0 +1,15 @@
+E:\Programming\Mobile Apps\pracka-na-mobilki\pracka-na-mobilki\pracka-na-mobilki\bin\Debug\netstandard2.0\pracka-na-mobilki.deps.json
+E:\Programming\Mobile Apps\pracka-na-mobilki\pracka-na-mobilki\pracka-na-mobilki\bin\Debug\netstandard2.0\pracka-na-mobilki.dll
+E:\Programming\Mobile Apps\pracka-na-mobilki\pracka-na-mobilki\pracka-na-mobilki\bin\Debug\netstandard2.0\pracka-na-mobilki.pdb
+E:\Programming\Mobile Apps\pracka-na-mobilki\pracka-na-mobilki\pracka-na-mobilki\obj\Debug\netstandard2.0\pracka-na-mobilki.csproj.AssemblyReference.cache
+E:\Programming\Mobile Apps\pracka-na-mobilki\pracka-na-mobilki\pracka-na-mobilki\obj\Debug\netstandard2.0\pracka-na-mobilki.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Mobile Apps\pracka-na-mobilki\pracka-na-mobilki\pracka-na-mobilki\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Programming\Mobile Apps\pracka-na-mobilki\pracka-na-mobilki\pracka-na-mobilki\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Programming\Mobile Apps\pracka-na-mobilki\pracka-na-mobilki\pracka-na-mobilki\obj\Debug\netstandard2.0\pracka-na-mobilki.AssemblyInfoInputs.cache
+E:\Programming\Mobile Apps\pracka-na-mobilki\pracka-na-mobilki\pracka-na-mobilki\obj\Debug\netstandard2.0\pracka-na-mobilki.AssemblyInfo.cs
+E:\Programming\Mobile Apps\pracka-na-mobilki\pracka-na-mobilki\pracka-na-mobilki\obj\Debug\netstandard2.0\pracka-na-mobilki.csproj.CoreCompileInputs.cache
+E:\Programming\Mobile Apps\pracka-na-mobilki\pracka-na-mobilki\pracka-na-mobilki\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Programming\Mobile Apps\pracka-na-mobilki\pracka-na-mobilki\pracka-na-mobilki\obj\Debug\netstandard2.0\pracka-na-mobilki.dll
+E:\Programming\Mobile Apps\pracka-na-mobilki\pracka-na-mobilki\pracka-na-mobilki\obj\Debug\netstandard2.0\refint\pracka-na-mobilki.dll
+E:\Programming\Mobile Apps\pracka-na-mobilki\pracka-na-mobilki\pracka-na-mobilki\obj\Debug\netstandard2.0\pracka-na-mobilki.pdb
+E:\Programming\Mobile Apps\pracka-na-mobilki\pracka-na-mobilki\pracka-na-mobilki\obj\Debug\netstandard2.0\ref\pracka-na-mobilki.dll
